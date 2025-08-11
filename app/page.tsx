@@ -31,7 +31,7 @@ export default function Home() {
           </Button>
           
           <Button
-            onClick={() => handleRedirect('https://www.github.com')}
+            onClick={() => handleRedirect('https://github.com/Bharath-dev05')}
             className="w-full h-16 text-lg font-semibold bg-gray-800 hover:bg-gray-900 transform transition-all duration-200 hover:scale-105 shadow-lg hover:shadow-xl"
             size="lg"
           >
